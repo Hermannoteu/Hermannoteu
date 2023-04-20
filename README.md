@@ -1,18 +1,24 @@
-<h1 align="center">Opa EAE meu nome é Matheus</h1>
-<h3 align="center">Eu sou mais um apaixonado pela Tecnologia fique a vontade para fuxicar no meu Git e bem vindo A City of Tears</h3>
 
-<p align="left"> <a href="https://twitter.com/iverl0l" target="blank"><img src="https://img.shields.io/twitter/follow/iverl0l?logo=twitter&style=for-the-badge" alt="iverl0l" /></a> </p>
+### Opa! Eu sou o Matheus 👻 Seja bem vindo a City Of Tears 👻
+![Hollowkg2](https://user-images.githubusercontent.com/125520564/233229146-a41f842b-f0fa-4582-9950-d792d045950a.gif)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/iverl0l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iverl0l" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/matheusdeyson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheusdeyson" height="30" width="40" /></a>
-<a href="https://fb.com/matheus deyson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="matheus deyson" height="30" width="40" /></a>
-<a href="https://instagram.com/mtdeyson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mtdeyson" height="30" width="40" /></a>
-<a href="https://discord.gg/Forbidden#1358" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Forbidden#1358" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![Hermannoteu GitHub stats](https://github-readme-stats.vercel.app/api?username=Hermannoteu&show_icons=true&theme=tokyonight        )
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hermannoteu&show_icons=true&locale=en&layout=compact" alt="hermannoteu" /></p>
+## Tecnologias que mais utilizo
+<div style="display: inline_block"><br/>
+    <img align= "center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    <img align= "center" alt="Python" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=black" />
+    <img align= "center" alt="Python" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+    <img align= "center" alt="Python" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align= "center" alt="Python" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+</div>
+
+## Redes sociais para Contato
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusdeyson/)
+[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mtdeyson/)
+
+## É só isso por enquanto 
+
+![Hollowkg](https://user-images.githubusercontent.com/125520564/233231940-58ddab4d-d8c7-41f5-83e1-e21bfa072e61.gif)
